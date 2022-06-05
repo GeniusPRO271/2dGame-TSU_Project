@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{8FB573A4-8D4C-1364-ABF0-9272C38A7DCC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/playerMove.cs">
+    <Files>
+      <File FileName="Assets/Scripts/playerMove.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/CamaraMotor.cs" Line="22" Column="17" />
+      <File FileName="Assets/Scripts/Colidable.cs" Line="5" Column="23" />
+      <File FileName="Assets/Scripts/CamaraToScene.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2DGame_TSU" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b4b56053-1dec-4424-a3e5-6ea354817b42" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
