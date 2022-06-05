@@ -44,6 +44,18 @@ TagManager:
   - name: Floor
     uniqueID: 2452402153
     locked: 0
+  - name: Background
+    uniqueID: 924704679
+    locked: 0
+  - name: Enviorment 0
+    uniqueID: 4089241227
+    locked: 0
   - name: Actor
     uniqueID: 1925047569
+    locked: 0
+  - name: Enviorment 1
+    uniqueID: 1740332427
+    locked: 0
+  - name: Enviorment 2
+    uniqueID: 218299063
     locked: 0
