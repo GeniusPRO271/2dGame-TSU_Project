@@ -72,3 +72,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneToLoad: 
+  PlayerPos: {x: 0, y: 0}
+  playerStorage: {fileID: 11400000, guid: 73b49d724e87e47f887e268b72784ee1, type: 2}

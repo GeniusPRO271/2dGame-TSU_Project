@@ -1,18 +1,19 @@
 ﻿<Properties StartupConfiguration="{8FB573A4-8D4C-1364-ABF0-9272C38A7DCC}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EnterScene.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/playerMove.cs">
     <Files>
-      <File FileName="Assets/Scripts/playerMove.cs" Line="16" Column="36" />
-      <File FileName="Assets/Scripts/CamaraMotor.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Colidable.cs" Line="9" Column="52" />
-      <File FileName="Assets/Scripts/ScenTransition.cs" Line="13" Column="32" />
-      <File FileName="Assets/Scripts/EnterScene.cs" Line="13" Column="32" />
+      <File FileName="Assets/Scripts/playerMove.cs" Line="31" Column="36" />
+      <File FileName="Assets/Scripts/Scipltable/PlayerLoc.cs" />
+      <File FileName="Assets/Scripts/ScenTransition.cs" Line="30" Column="1" />
+      <File FileName="Assets/Scripts/CamaraMotor.cs" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5718a802-1634-48b0-83f5-2bd0872df007" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="412e57aa-e0d1-404f-b9ee-90ee3833ff23" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/benjamintoro/Desktop/2DGame_TSU/Assets/Scripts/playerMove.cs" relfile="Assets/Scripts/playerMove.cs" line="38" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
